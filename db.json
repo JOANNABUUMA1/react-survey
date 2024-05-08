@@ -1,0 +1,35 @@
+{
+  "surveys": [
+    {
+      "id": "1",
+      "email": "aquaman@atlantis.com",
+      "username": "Aquaman",
+      "review": "I talk to my duck every day!",
+      "spentTime": [
+        "swimming"
+      ],
+      "color": "4"
+    },
+    {
+      "id": "2",
+      "email": "hi@nme.com",
+      "username": "Hello World",
+      "review": "Hellow World",
+      "spentTime": [
+        "chatting"
+      ],
+      "color": "1"
+    },
+    {
+      "id": "2cab",
+      "email": "joanab@gmail.com",
+      "username": "joana",
+      "review": "Tik Tak Toe\n\nthe main duck",
+      "spentTime": [
+        "chatting",
+        "bathing"
+      ],
+      "color": "2"
+    }
+  ]
+}
